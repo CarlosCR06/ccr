@@ -119,3 +119,6 @@ def __str__(self) -> str:
 >>>>>>> 7025416 (FIX #1 Añadiendo metodo str a Estudiante)
 
 # Me gustan las patatas
+
+
+# issueeee
