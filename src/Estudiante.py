@@ -114,4 +114,8 @@ class Estudiante:
         
     def __str__(self) -> str:
         return f"Estudiante: {self.nombre} {self.apellidos}, NIF: {self.nif}, Curso: {self.curso}"    
+def __str__(self) -> str:
+    return f"Estudiante: {self.nombre} {self.apellidos}, NIF: {self.nif}, Curso: {self.curso}"
 >>>>>>> 7025416 (FIX #1 Añadiendo metodo str a Estudiante)
+
+# Me gustan las patatas
